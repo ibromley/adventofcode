@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # Puzzle 
-# https://adventofcode.com/2023/day/1
+# https://adventofcode.com/2023/day/2
 import re
 
 def part_1(filename):
